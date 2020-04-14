@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8429cf6-5d8e-4538-9e2a-cf104cc4e36d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aVI3EN2FeKQK2T83CGx1N8TK2M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\College Year 4\Assignment3\src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8429cf6-5d8e-4538-9e2a-cf104cc4e36d" name="Default Changelist" comment="" />
+      <created>1586814132695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586814132695</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1586871110338">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-878" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1586867568382" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1586871110338" />
+    <state x="396" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586816710190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="396" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1586816710190" />
+    <state x="66" y="0" key="new project wizard" timestamp="1586866243005">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="66" y="0" key="new project wizard/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1586866243005" />
+  </component>
+</project>
